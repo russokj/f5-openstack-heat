@@ -183,7 +183,7 @@ resources:
                                "vlan_description": "VLAN for BIG-IP Cluster HA and server (internal) traffic",
                                "is_failover": "true",
                                "is_sync": "true",
-                               "is_mirror_primary": "true",
+                               "is_mirror_primary": "false",
                                "is_mirror_secondary": "false"
                            },
                            "1.2": {
